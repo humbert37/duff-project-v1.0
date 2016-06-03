@@ -1,0 +1,42 @@
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\bin\Debug\duff project v2.exe.config
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\bin\Debug\duff project v2.exe
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\bin\Debug\duff project v2.pdb
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff project v2.csprojResolveAssemblyReference.cache
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff_project_v2.Form1.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff_project_v2.Properties.Resources.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff project v2.csproj.GenerateResource.Cache
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff project v2.exe
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff project v2.pdb
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff_project_v2.menu_principal.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2\duff project v2\obj\Debug\duff_project_v2.menu_principal_vendedor.resources
+E:\duff project v2\duff project v2\bin\Debug\duff project v2.exe.config
+E:\duff project v2\duff project v2\obj\Debug\duff project v2.exe
+E:\duff project v2\duff project v2\obj\Debug\duff project v2.pdb
+E:\duff project v2\duff project v2\bin\Debug\duff project v2.exe
+E:\duff project v2\duff project v2\bin\Debug\duff project v2.pdb
+E:\duff project v2\duff project v2\obj\Debug\duff project v2.csprojResolveAssemblyReference.cache
+E:\duff project v2\duff project v2\obj\Debug\duff_project_v2.Form1.resources
+E:\duff project v2\duff project v2\obj\Debug\duff_project_v2.menu_principal.resources
+E:\duff project v2\duff project v2\obj\Debug\duff_project_v2.menu_principal_vendedor.resources
+E:\duff project v2\duff project v2\obj\Debug\duff_project_v2.Properties.Resources.resources
+E:\duff project v2\duff project v2\obj\Debug\duff project v2.csproj.GenerateResource.Cache
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\bin\Debug\duff project v2.exe.config
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff project v2.exe
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff project v2.pdb
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\bin\Debug\duff project v2.exe
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\bin\Debug\duff project v2.pdb
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff project v2.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.Form1.resources
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.menu_principal.resources
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.menu_principal_vendedor.resources
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.Properties.Resources.resources
+C:\Users\cesar\Desktop\EMI\duff project v2.1\duff project v2\obj\Debug\duff project v2.csproj.GenerateResource.Cache
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\bin\Debug\duff project v2.exe.config
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff project v2.exe
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff project v2.pdb
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff project v2.csprojResolveAssemblyReference.cache
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.Form1.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.menu_principal.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.menu_principal_vendedor.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff_project_v2.Properties.Resources.resources
+C:\Users\humbertoPardo\Documents\Visual Studio 2012\Projects\BDfbf\duff project v2.1\duff project v2\obj\Debug\duff project v2.csproj.GenerateResource.Cache
