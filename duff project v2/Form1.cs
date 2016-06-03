@@ -21,7 +21,7 @@ namespace duff_project_v2
         {
 
             string id_admin = txt_usuario.Text;
-            string vadmin = "admin";
+            string vadmin = "admin2";
             string password = "adminpass";
             string pass = txt_contra.Text;
 
