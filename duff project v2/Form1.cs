@@ -42,8 +42,8 @@ namespace duff_project_v2
                 /////////////////////////
 
                 string id_vendedor = txt_usuario.Text;
-                string vidvendedor = "vendedor";
-                string passwordv = "vendedorpass";
+                string vidvendedor = "vendedor1";
+                string passwordv = "vendedorc";
                 string passv = txt_contra.Text;
 
                 if (pass.Equals(passwordv) && id_vendedor.Equals(vidvendedor))
